@@ -21,7 +21,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "8610917014:AAEj59k4kQIkNVzK2wNJbr7uDXXXLnuU-
 ADMIN_ID = 6419105535
 
 CHANNELS = [
-    ("Channel 1", "https://t.me/team_tiranga"),
+    ("Channel 1", "https://t.me/tiranga_team"),
     ("Channel 2", "https://t.me/+wgeCmoTWqNkwMWI1"),
     ("Channel 3", "https://t.me/+uZvwC03tydliNWM1"),
     ("Channel 4", "https://t.me/+H-HihRds5zpkZGFl"),
