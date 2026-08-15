@@ -21,12 +21,12 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "8610917014:AAEj59k4kQIkNVzK2wNJbr7uDXXXLnuU-
 ADMIN_ID = 6419105535
 
 CHANNELS = [
-    ("Channel 1", "@team_tiranga"),
+    ("Channel 1", "https://t.me/team_tiranga"),
     ("Channel 2", "https://t.me/+wgeCmoTWqNkwMWI1"),
     ("Channel 3", "https://t.me/+uZvwC03tydliNWM1"),
     ("Channel 4", "https://t.me/+H-HihRds5zpkZGFl"),
-    ("Channel 5", "@public_sg_community"),
-    ("Channel 6", "@public_sg_updated"),
+    ("Channel 5", "https://t.me/public_sg_community"),
+    ("Channel 6", "https://t.me/public_sg_updated"),
 ]
 
 DB = "bot.db"
